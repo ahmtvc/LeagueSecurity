@@ -1,0 +1,21 @@
+#Use valid time format like "1m,5h,30d,20s"
+time-between-next-auth: "5h"
+setup-auth-message:
+  - ""
+  - "&ePlease type &b/2fa &eto setup your &6&l2FA&e."
+  - "&eYou will receive map with QR Code that needs"
+  - "&eto be scanned!"
+  - ""
+  - "&eUse app like &bAuthy &eto scan QR Code and get code!"
+  - ""
+enter-auth-message:
+  - ""
+  - "&ePlease type &b/2fa <code> &eto confirm your &6&l2FA&e."
+  - "&eGet code from your app that you used to setup &6&L2FA&e!"
+  - "&eto be scanned!"
+  - ""
+next-auth-note:
+  - ""
+  - " &7(( &eYour next &6&l2FA &eauthentication &7))"
+  - "&eTime&7: &b<time>"
+  - ""

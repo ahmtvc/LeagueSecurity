@@ -1,0 +1,6 @@
+name: "LeagueSecurity"
+version: "1.0"
+author: "FaceSlap_/Activated_"
+main: net.league.security.LeagueSecurity
+commands:
+  2fa:

@@ -1,0 +1,22 @@
+#
+# For type use "Mongo", "MySQL" or "Flat"
+#
+storage-type: "Flat"
+mysql:
+  database:
+    host: "127.0.0.1"
+    user: "root"
+    password: ""
+    database: "test"
+    port: 3306
+mongodb:
+  address: "127.0.0.1"
+  port: 27017
+  database: ""
+  authentication:
+    enabled: false
+    info:
+      username: ""
+      password: ""
+flat-data:
+  directory: "playerdata"
