@@ -2,7 +2,7 @@
 Security plugin used to secure staff players on your minecraft server
 
 # About
-This plugin is used to secure players with required permission. It's very easy to use cause all you have to do once you join the server is to scant QR Map with any app like Authy and than use codes generated in app to fully log in to server. 
+This plugin is used to secure players with required permission. It's very easy to use because all you have to do once you join the server is to scan QR Map with any app like Authy and than use codes generated in app to fully log in to server. 
 Each time your IP Address changes or configured time passed you will be required to enter the code
 
 # Contact Me
